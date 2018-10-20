@@ -1,4 +1,6 @@
-# Angular 7
+# Learn Angular 7
+
+It contains angular routing and shows the data from the API
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.1.
 
